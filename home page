@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset='utf-8'>
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+
+    <title>Page Title</title>
+
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+
+    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+
+    <script src='main.js'></script>
+
+</head>
+
+<body>
+
+    
+
+    <div id="wrapper">
+
+         <div id="header">
+
+         </div>
+
+         <div id="nav">
+
+             
+
+                <ul>
+
+                        <li><a href="index.html">Home</a></li>
+
+                        <li><a href="about.html">About</a></li>
+
+                        <li><a href="factulty.html">Faculty</a></li>
+
+                           </ul>
+
+         </div>
+
+         <div id="body">
+
+                <h1 align="center">CARIT NEWS</h1>
+
+                <img src="coffee1.jpeg" style="float:left;margin-right:10px;" width="200px" height="200px">
+
+                <p style="text-align: justify">
+
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+
+                </p>
+
+                <img src="coffee2.jpeg" style="float:right;margin-right:10px;" width="200px" height="200px">
+
+                <p style="text-align: justify">
+
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+
+                </p>
+
+                <img src="coffee3.jpg" style="float:left;margin-right:10px;" width="200px" height="200px">
+
+                <p style="text-align: justify">
+
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+
+                </p>
+
+                
+
+         </div>
+
+         <div id="sidebar">
+
+                <iframe width="230px" height="400px" src="https://www.youtube.com/embed/0tBqrioLag4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+         </div>
+
+         <div id ="footer">
+
+        <p style="text-align: center;color:white;font-size:20px;">
+
+             All @ Copy rights reserved to Carit web applicaton
+
+        </p>
+
+         </div>
+
+    </div>
+
+</body>
+
+</html>
